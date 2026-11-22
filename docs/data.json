@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-11-22T12:06:41.294505+00:00",
+  "count": 3,
+  "new_count": 3,
+  "youtube_enabled": false,
+  "errors": [
+    "RSS USA Buffalo lake effect snow video: HTTPError: HTTP Error 429: Too Many Requests"
+  ],
+  "items": [
+    {
+      "id": "daf845e40b7fe91c0746",
+      "platform": "News RSS",
+      "region": "USA",
+      "language": "en",
+      "query": "blizzard winter storm footage",
+      "title": "Ski season kicks off across the Sierra as winter storm brings fresh powder - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnM3SFFueVphT1JCb3BiaERnbXYzaVFwdGRMaGllY2NwN3JISlc2eFp1ZTZOVGNUOWExVERMNUg1aTBSTGRVaWJYMEFrY0pqR0hmVFVvLXpBMEFSVGdBdU5iM1RGa2JxMFlqREpDaUt6VlhBdFZJc2FERzlId0tDWHc5cVYtaEJTQmVVZHZxVkZqNERjT3p4T3ozeWQ4bTFZRG02bUpzOVRSNU55N2p2MXNHMVJFOUk?oc=5",
+      "published_at": "2026-11-21T02:13:00+00:00",
+      "found_at": "2026-11-22T12:06:41.294505+00:00",
+      "source": "CBS News",
+      "status": "new",
+      "rights": "unknown",
+      "verified": false,
+      "recorded_at": null,
+      "notes": "Article discovery; may contain embedded social video. Check original media and recording date."
+    },
+    {
+      "id": "a4c4a4fb7b8431c25952",
+      "platform": "News RSS",
+      "region": "USA",
+      "language": "en",
+      "query": "blizzard winter storm footage",
+      "title": "Colorado State Patrol reminds drivers to prepare their cars for winter weather - KKCO 11 News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOThRQWVaQ3JSWWwzZl9FUXZkMk5ENUdUaW1RcUllcXl5c204Ri1udGNlSkc1Mmx6T25ta05pX3YxWUR3V093UVRXT1JvOGtpdjB3Y0xNRjRwMXVkRmw3VXZmRHFCcE5tdnEtbWZVTkl4RWRCU2phY3NZVmctanhDT2tGREU5Nm1BZnJLSWw1amhoUnZTSnE2S2ZvQWtQUEdTbXdJXzU3TW0zbzlQYUxlNERUNENZUWlqLWZ3aUYyc0hqbVnSAcMBQVVfeXFMUDk4UUFlWkNyUllsM2ZfRVF2ZDJORDVHVGltUXFJZXF5eXNtOEYtbnRjZUpHNTJsek9ubWtOaV92MVlEd1dPd1FUV09SbzhraXYwd2NMTUY0cDF1ZEZsN1V2ZkRxQnBObXZxLW1mVU5JeEVkQlNqYWNzWVZnLWp4Q09rRkRFOTZtQWZyS0lsNWpoaFJ2U0pxNktmb0FrUFBHU213SV81N01tM285UGFMZTREVDRDWVFpai1md2lGMnNIam1Z?oc=5",
+      "published_at": "2026-11-20T21:36:00+00:00",
+      "found_at": "2026-11-22T12:06:41.294505+00:00",
+      "source": "KKCO 11 News",
+      "status": "new",
+      "rights": "unknown",
+      "verified": false,
+      "recorded_at": null,
+      "notes": "Article discovery; may contain embedded social video. Check original media and recording date."
+    },
+    {
+      "id": "80202f05175eef95cfdd",
+      "platform": "News RSS",
+      "region": "Alaska",
+      "language": "en",
+      "query": "Alaska blizzard snow",
+      "title": "‘Quick burst’ of heavy snow closes Anchorage schools - Alaska Public Media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlB2YUVYQ2w1SkFXNUVHajR1eGZPdEViWEVld0pTUjZXa1ZVcl9TZTJPTzAza1M2UUdqcXdyb01YbXZHZ2hlMkZKNjVxT3lET25TRVpPREhnYzltd1hFdVhKSEdjZWNpZ0Y1TmZJSi00MkdfdzNtVzVfcUNyd01Pb2s5MFk5b1E5bGtFczQyWU5CUUct?oc=5",
+      "published_at": "2026-11-20T16:06:00+00:00",
+      "found_at": "2026-11-22T12:06:41.294505+00:00",
+      "source": "Alaska Public Media",
+      "status": "new",
+      "rights": "unknown",
+      "verified": false,
+      "recorded_at": null,
+      "notes": "Article discovery; may contain embedded social video. Check original media and recording date."
+    }
+  ]
+}
