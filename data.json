@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-11-22T09:45:21.666184+00:00",
+  "count": 0,
+  "new_count": 0,
+  "youtube_enabled": false,
+  "errors": [
+    "RSS Turkey Bolu yoğun kar yağışı: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Turkey Kartalkaya kar fırtınası: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Turkey Erzurum tipi kar: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Japan 札幌 大雪 動画: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Japan 北海道 吹雪: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Japan 青森 大雪: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Nordics Norway snowstorm video: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Nordics Sverige snöstorm: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Nordics Suomi lumimyrsky: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Alps nevicata intensa Dolomiti video: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Alps Schneesturm Alpen Video: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS USA Buffalo lake effect snow video: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS USA blizzard winter storm footage: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Alaska Alaska blizzard snow: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Canada Quebec snowstorm video: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Canada Newfoundland blizzard: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Greenland Greenland blizzard snowstorm: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Asia 한국 폭설 영상: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Asia 暴雪 视频: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "RSS Balkans χιονόπτωση κακοκαιρία βίντεο: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+  ],
+  "items": []
+}
